@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "7rB2KVQt9QO7rYRa0NDTSYgwac0BKo7rEEBzYVFUr0c=",
+  "Source": "bot_parking_api",
+  "BasePath": "_content/bot_parking_api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
